@@ -10,3 +10,4 @@ remote repositry to local space
 git push=>local space to remote repositry
 
 gti remote add name remote_path
+git remote -v=>for listing all remotes
